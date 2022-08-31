@@ -9,3 +9,6 @@ CRUD (an acronym for Create, Read, Update, Delete) refers to the four main funct
 
 ### • ***Create***
 #### Story 2 - Create a model for the collection item you will be tracking and add the ability to create a new item.
+I was tasked with creating a model, an objects manager to access the database, a model form for users to input data, a template for creating a new item, and a *views function* that renders the create page and saves the collection item to the database.
+
+![]()
