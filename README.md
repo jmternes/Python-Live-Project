@@ -62,7 +62,13 @@ After creating a functional application, this task required improvements to the 
 
 ### • ***Demo***
 #### Here are a couple looks at the application. Styled with minimalism and functionality in mind.
-![](
+
+
+https://user-images.githubusercontent.com/68615887/188006993-0385a50f-6ba1-4e02-bda1-b530f2efe9a1.mp4
+
+
+https://user-images.githubusercontent.com/68615887/188007353-cc27b46c-2d49-4df4-9b88-5c59e0c10f26.mp4
+
 
 <hr>
 
