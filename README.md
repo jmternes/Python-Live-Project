@@ -62,7 +62,7 @@ After creating a functional application, this task required improvements to the 
 
 ### • ***Demo***
 #### Here are a couple looks at the application. Styled with minimalism and functionality in mind.
-
+![](
 
 <hr>
 
