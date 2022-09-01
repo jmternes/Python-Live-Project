@@ -61,8 +61,8 @@ After creating a functional application, this task required improvements to the 
 <hr>
 
 ### • ***Demo***
-#### Here are a couple looks at the application, showcasing its functionality
-VIDEOS HERE?
+#### Here are a couple looks at the application. Styled with minimalism and functionality in mind.
+
 
 <hr>
 
