@@ -2,7 +2,7 @@
 ## Introduction
 As part of the curriculum at The Tech Academy, I worked as a developer for a two-week sprint - creating a web app using Django, a powerful Python-based web framework that follows the model-template-views pattern. The app was assigned to focus on a personal hobby - of which I have many - but I settled on movies, to create a movie review web application.
 
-Working with a legacy codebase for the first time, I learned what it was like to work within a collaborative environment, complete with daily stand-up meetings and end-of-day reports. The project allowed me to complete both front-end and back-end user stories, both contributing to the final product that lets users fill a relational database with their own "Movie Review", then read, update, or delete said data; implementing [CRUD Functionality](#crud-functionality)
+Working with a legacy codebase for the first time, I learned what it was like to work within a collaborative environment, complete with daily stand-up meetings and end-of-day reports. The project allowed me to complete both front-end and back-end user stories, both contributing to the final product that lets users [fill](#-create) a relational database with their own "movie review", then [read](#-read), [update](#-update-and-delete), or [delete](#-update-and-delete) said data; implementing [CRUD Functionality](#crud-functionality)
 
 ## CRUD Functionality
 CRUD (an acronym for Create, Read, Update, Delete) refers to the four main functions inherent to relational databases. Implementing the four CRUD functions, users of my Live Python Project can create, read, update, and delete their selected data.
@@ -57,6 +57,12 @@ Along with the Beautiful Soup work, the API task presented a great learning oppo
 ### • ***Front End Development***
 #### Story 8 - Make improvements to the UI/UX of the site with front-end development/styling
 After creating a functional application, this task required improvements to the front-end: finalization of styling and any other necessary changes to improve the user experience.
+
+<hr>
+
+### • ***Demo***
+#### Here are a couple looks at the application, showcasing its functionality
+VIDEOS HERE?
 
 <hr>
 
