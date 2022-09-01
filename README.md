@@ -19,7 +19,7 @@ I was tasked with *creating a model*, an objects manager to access the database,
 <hr>
 
 ### • ***Read***
-#### Stories 3 and 4 - Display all items from the database | Create a details page that show the details of any single item, selected by the user
+#### Stories 3-4 - Display all items from the database | Create a details page that show the details of any single item, selected by the user
 Next, I created a new HTML page to display items and added a *views function* to display the items from the database. For story 4, I added another template to display any single item from within the database, and another *views function* to send the single item to the template.
 
 ![](https://github.com/jmternes/Python-Live-Project/blob/main/Code-Snippets/Display%20Items%20in%20Database.png)
