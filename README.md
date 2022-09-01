@@ -60,5 +60,5 @@ After creating a functional application, this task required improvements to the 
 
 <hr>
 
-### ***Skills Acquired***
+### • ***Skills Acquired***
 #### As I complete this two-week sprint, and the README to go along with it, I'm reminded of how much I learned in the past 10 days. This project provided many "firsts": implementing an API, Web Scraping, completing a Django project to completion, and more. I especially appreciate the real-world type immersion, using Version Control to work as part of a team, and Agile methodologies such as daily stand-ups, code retrospectives, and more.
